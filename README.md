@@ -1,4 +1,4 @@
-# Regression-Model-Development_birthweight
+# Supervised Learning-Regression Model Development
 
 Used information of birthweights to build a predictive model on a continuous response variable (birthweights). The analysis includes feature engineering, model preparation, variable selection, and model development.
 
